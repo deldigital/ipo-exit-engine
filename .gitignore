@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# Environments and caches
+.venv/
+__pycache__/
+*.pyc
+.vscode/
+.DS_Store
+
+# Generated data, outputs and live logs (market data is not redistributed)
+data/
+out/
+logs/
+*.csv

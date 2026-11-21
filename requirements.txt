@@ -1,0 +1,9 @@
+alpaca-py
+pandas
+numpy
+python-dotenv
+dash
+plotly
+requests
+scipy
+websockets
